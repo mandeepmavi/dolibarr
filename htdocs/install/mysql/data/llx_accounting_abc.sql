@@ -146,3 +146,6 @@ INSERT INTO llx_accounting_system (fk_country, pcg_version, label, active) VALUE
 
 -- Description of chart of account EC EC-SUPERCIAS
 INSERT INTO llx_accounting_system (fk_country, pcg_version, label, active) VALUES (  84, 'EC-SUPERCIAS', 'Plan de cuentas Ecuador', 1);
+
+-- Description of chart of account CA CA-ENG-BASE
+INSERT INTO llx_accounting_system (fk_country, pcg_version, label, active) VALUES (  14, 'CA-ENG-BASE', 'Canada Chart of Accounts', 1);
