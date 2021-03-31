@@ -203,6 +203,9 @@ insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc
 insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'SK','',1,'','Saskatchewan');
 insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'AB','',1,'','Alberta');
 insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'NL','',1,'','Newfoundland and Labrador');
+insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'NT','',1,'','Northwest Territories');
+insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'YT','',1,'','Yukon');
+insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'NU','',1,'','Nunavut');
 
 
 -- France Departements (id country=1)
