@@ -560,6 +560,7 @@ insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,no
 insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,nom) values (2801,'NT' ,'',1,'','Northern Territory');
 
 -- Provinces Canada (id country=14)
+-- Provinces and Territories of Canada (id country=14)
 insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,nom) values (1401,'ON','',1,'','Ontario');
 insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,nom) values (1401,'QC','',1,'','Quebec');
 insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,nom) values (1401,'NS','',1,'','Nova Scotia');
@@ -570,6 +571,9 @@ insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,no
 insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,nom) values (1401,'SK','',1,'','Saskatchewan');
 insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,nom) values (1401,'AB','',1,'','Alberta');
 insert into llx_c_departements (fk_region, code_departement,cheflieu,tncc,ncc,nom) values (1401,'NL','',1,'','Newfoundland and Labrador');
+insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'NT','',1,'','Northwest Territories');
+insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'YT','',1,'','Yukon');
+insert into llx_c_departements (fk_region, code_departement, cheflieu, tncc, ncc, nom) values (1401,'NU','',1,'','Nunavut');
 
 -- Provinces Spain (id country=4) in order of province (for logical pick list)
 INSERT INTO llx_c_departements (code_departement, fk_region, cheflieu, tncc, ncc, nom) VALUES ('VI', '419', '01', 19, 'ALAVA', 'Álava');
