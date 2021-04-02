@@ -143,3 +143,6 @@ INSERT INTO llx_accounting_system (fk_country, pcg_version, label, active) VALUE
 
 -- Description of chart of account NL NL-VERKORT
 INSERT INTO llx_accounting_system (fk_country, pcg_version, label, active) VALUES (  17, 'NL-VERKORT', 'Verkort rekeningschema', 1);
+
+-- Description of chart of account Canada CA-ENG-BASE
+INSERT INTO llx_accounting_system (fk_country, pcg_version, label, active) VALUES (  14, 'CA-ENG-BASE', 'Canadian basic chart of accounts - English', 1);
